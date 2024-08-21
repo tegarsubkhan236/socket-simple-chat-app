@@ -2,6 +2,9 @@
 
 A simple chat application built with React JS and WebSocket.
 
+<img src="demo.gif" alt="Demo" width="500" height="300"/>
+
+
 ### Setup and Running the Application
 
 1. Clone the repository:
